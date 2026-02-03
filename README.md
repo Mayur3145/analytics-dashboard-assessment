@@ -6,7 +6,7 @@
 
 </div>
 
-Live Link:- analytics-dashboard-assessment-blue.vercel.app
+[Live Demo](https://analytics-dashboard-assessment-blue.vercel.app)
 
 ---
 
