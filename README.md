@@ -2,15 +2,11 @@
 
 <div align="center">
 
-![EV Analytics](https://img.shields.io/badge/EV-Analytics-6366f1?style=for-the-badge)
-![Next.js](https://img.shields.io/badge/Next.js-16-black?style=for-the-badge&logo=next.js)
-![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react)
-
 **A comprehensive, data-driven analytics dashboard for exploring Washington State's Electric Vehicle population**
 
-[Live Demo](#) | [Documentation](#features) | [Insights](#key-insights)
-
 </div>
+
+Live Link:- analytics-dashboard-assessment-blue.vercel.app
 
 ---
 
